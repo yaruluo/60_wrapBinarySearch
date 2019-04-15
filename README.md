@@ -1,12 +1,12 @@
 # 60_wrapBinarySearch
 
-**What is meant by y = log2x ? Express its meaning in a .**
-- y is the exponent to which 2 must be raised to yield x
-- read "log base 2 of x" or "the logarithm of x to the base 2"
+**What is meant by count = log2n ? Express its meaning in a .**
+- count is the exponent to which 2 must be raised to yield n
+- read "log base 2 of n" or "the logarithm of n to the base 2"
 
 
 **What does its graph look like?**
-- it looks like the curve of y = 2^x reflected about the line y = x.
+- it looks like the curve of count = 2^n reflected about the line y = x.
 - Domain: (0, infinity)
 - Range: (-infinity, infinity)
 - y-int: none
